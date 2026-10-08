@@ -1,0 +1,30 @@
+[33mcommit c5651d971fcfeaeffa3d869c56ad2c583f824a52[m[33m ([m[1;36mHEAD -> [m[1;32mweek-3-streams[m[33m, [m[1;31morigin/week-3-streams[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: c500f06 590fb14
+Author: d1asko <72037834+d1asko@users.noreply.github.com>
+Date:   Thu Sep 24 16:04:14 2026 +0500
+
+    Merge pull request #2 from d1asko/book-source
+    
+    Book source
+
+[33mcommit 590fb14ede86a21a41f0fa96264415ef8445dd6b[m[33m ([m[1;31morigin/book-source[m[33m)[m
+Merge: c500f06 3b849c9
+Author: d1asko <72037834+d1asko@users.noreply.github.com>
+Date:   Thu Sep 3 09:50:29 2026 +0500
+
+    Merge pull request #1 from d1asko/readme
+    
+    e-commerce order & inventory service application
+
+[33mcommit 3b849c92959bfcebc14ccb66977c5b0e0ccdb98c[m
+Author: Dias Sovetbekov <Bisb23-7@ntdom.local>
+Date:   Thu Sep 3 09:47:11 2026 +0500
+
+    I will try to do e-commerce order & inventory service application. It will act as a backend system that will track products
+    , customer purchases and will manage stock levels
+    Key features:
+    product catalog; order processing; status tracking; input validation
+    Core user actions:
+    browse products; create order; cancel order; update stock
+    Goals & Teck stack:
+    Language - Java 21 with Apache Maven;
